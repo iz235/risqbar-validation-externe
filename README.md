@@ -107,8 +107,8 @@ Le script génère automatiquement un fichier **`validation_report.txt`** dans l
 **Ce fichier contient uniquement des métriques agrégées — aucune donnée patient individuelle.**
 
 Retournez ce fichier par email à :
-- **Izadine Massar** — massarizzadinealkhali@gmail.com
-- **Pr. Andrea LAZZATI** — INRIA / Équipe HEKA / PariSanté Campus
+- **Izadine Massar** 
+- **Pr. Andrea LAZZATI** 
 
 ---
 
