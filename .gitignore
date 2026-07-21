@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+venv/
+.venv/
+*.csv
+!exemple_donnees/exemple_format.csv
+validation_report.txt
+*.pkl
+*.rds
+*.log
+.DS_Store
+Thumbs.db
