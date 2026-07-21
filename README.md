@@ -219,8 +219,8 @@ risqbar-validation-externe/
 **Izadine Massar**
 Stagiaire ING5-ITS — EPISEN / UPEC
 INRIA — Équipe HEKA — PariSanté Campus
-massarizzadinealkhali@gmail.com
 
 **Pr. Andrea LAZZATI**
-Chirurgien bariatrique — Chercheur associé HEKA
+Professeur des Universités – Praticien Hospitalier (PU-PH)
+Chirurgien bariatrique — Chercheur senior associé HEKA
 INRIA / AP-HP — PariSanté Campus, Paris
