@@ -217,7 +217,7 @@ risqbar-validation-externe/
 ## Contact
 
 **Izadine Massar**
-Stagiaire ING5-ITS — EPISEN / UPEC
+Ingenieur — EPISEN / UPEC
 INRIA — Équipe HEKA — PariSanté Campus
 
 **Pr. Andrea LAZZATI**
